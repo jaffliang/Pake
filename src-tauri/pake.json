@@ -1,7 +1,7 @@
 {
   "windows": [
     {
-      "url": "https://weread.qq.com",
+      "url": "http://192.168.130.228/oa/",
       "url_type": "web",
       "hide_title_bar": true,
       "fullscreen": false,
